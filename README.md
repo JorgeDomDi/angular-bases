@@ -1,4 +1,6 @@
-# Bases 😂
+# Bases Angular
+![angular logo](https://angular.io/assets/images/logos/angular/shield-large.svg)
+
 ###### jorge
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
