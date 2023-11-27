@@ -1,0 +1,11 @@
+h1{
+    text-decoration:underline;
+}
+dd{
+    font-weight: 600;
+    font-size: large;
+}
+td{
+    font-weight: bold;
+    font-size: x-large;
+}

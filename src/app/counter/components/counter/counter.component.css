@@ -1,0 +1,36 @@
+.red{
+    background-color: red;
+    color: white;
+}
+.green{
+    background-color: green;
+    color: white;
+    
+}
+.blue{
+    background-color:blue;
+    color: white;
+}
+.btn{
+    width:90px;
+    height: 40px;
+    border: none;
+    border-radius:5px ;
+
+}
+.btn:hover{
+    scale: 1.05;
+    text-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px black;
+    transition: all 0.3s;
+}
+.botonera{
+    display: flex;
+    gap: 8px;
+    width: 300px;
+    height: 80px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+

@@ -1,4 +1,7 @@
+import { CounterModule } from './counter/counter.module';
+
 import { Component } from '@angular/core';
+import { HeroesModule } from './heroes/heroes.module';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +9,8 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'bases';
+
+  title = 'Hola Mundo';
+
+
 }
